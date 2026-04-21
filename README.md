@@ -1,4 +1,4 @@
-An AI-powerd fitness assistant that calculates calories,macros,adn generates workout plans.
+An AI-powerd fitness assistant that calculates calories,macros,and generates workout plans.
 
 
 ## Built with:

@@ -4,221 +4,221 @@
       {
         "name": "Barbell Flat Bench Press",
         "muscle_group" :"Primary: Mid and Lower Pecs, Secondary: Triceps and Front Delts.",
-        "equipment":"Barbell",
-        "difficulty":"Intermediate",
+        "equipment":"barbell",
+        "difficulty":"intermediate",
         "description":"Science treats this as the \"100% baseline\" for chest activation. It allows for the highest mechanical tension (lifting the most weight)"
       },
       {
         "name": "Incline Dumbbell Press",
         "muscle_group" :"Primary: Upper Pecs (Clavicular Head) ,Secondary: Front Delts and Triceps. ",
         "equipment":"Dumbbell",
-        "difficulty":"Intermediate",
+        "difficulty":"intermediate",
         "description":"While the flat bench is King, the incline press is what builds the \"shelf\" look. Using dumbbells provides a greater range of motion and prevents your stronger side from doing all the work."
       },
       {
         "name": "Pec Deck Fly",
         "muscle_group" :"Primary: Full Pectoralis Major , Secondary: Minimal Front Deltoids. ",
         "equipment":"Machine or Dumbbell",
-        "difficulty":"Beginner",
+        "difficulty":"beginner",
         "description":"According to ACE research, this exercise is 98% as effective as the barbell bench press but with much lower risk and no need for a spotter."
       },
       {
         "name": "Weighted Dips",
         "muscle_group" :"Primary: Lower Pecs , Secondary: Triceps and Front Delts.",
         "equipment":"Parallel Bars",
-        "difficulty":"Advanced",
+        "difficulty":"advanced",
         "description":"Often called the \"bodyweight bench press\", dips are elite for targeting the lower portion of the pectoralis major."
       },
       {
         "name": "Cable Crossover",
         "muscle_group" :"Primary: Lower and Inner Pecs , Secondary: Front Deltoids. ",
         "equipment":"Cable Machine",
-        "difficulty":"Intermediate",
+        "difficulty":"intermediate",
         "description":"Cables offer something gravity-based weights don't: Constant Tension. In a dumbbell fly, tension disappears at the top; in cables, it stays 100% throughout the movement."
       }
     ],
-    "Back": [
+    "back": [
     {
       "name": "Pull-Up",
       "muscle_group": "Primary: Lats , Secondary: Biceps and Rhomboids.",
       "equipment": "Pull-Up Bar",
-      "difficulty": "Advanced",
+      "difficulty": "advanced",
       "description": "Often dubbed the \"ultimate back builder\", the pull-up requires you to lift your entire bodyweight, cranking up lat tension. It hits the lats hard and even works your biceps and core, making it the gold-standard for a wider, stronger back."
     },
     {
       "name": "Barbell Deadlift",
       "muscle_group": "Primary: Lower Back and Glutes , Secondary: Hamstrings.",
       "equipment": "Barbell",
-      "difficulty": "Advanced",
+      "difficulty": "advanced",
       "description": "Often called the \"king of lifts\" for a reason — it loads your entire posterior chain. This powerhouse move builds serious lower-back and glute strength by letting you lift the most weight from the floor."
     },
     {
       "name": "Bent-Over Barbell Row",
       "muscle_group": "Primary: Rhomboids and Lats , Secondary: Biceps and Rear Delts.",
       "equipment": "Barbell",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "Often nicknamed the \"back thickener\", the bent-over barbell row is a classic for mid-back size. Pulling the bar to your lower chest while bracing your core will maximize rhomboid and lat contraction for thickness."
     },
     {
       "name": "One-Arm Dumbbell Row",
       "muscle_group": "Primary: Lats, Rhomboids and Traps , Secondary: Biceps and Rear Delts.",
       "equipment": "Dumbbell",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "Often called the \"secret weapon\" for a balanced back, the one-arm dumbbell row isolates each side for even development. It hits the lats and traps hard while forcing your core to stabilize, ensuring balanced back development."
     },
     {
       "name": "Lat Pulldown",
       "muscle_group": "Primary: Lats , Secondary: Biceps and Upper Back.",
       "equipment": "Cable Machine",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "Think of the lat pulldown as a weight-assisted pull-up—it offers constant tension on the lats throughout the lift. With a wide grip, it safely overloads your latissimus dorsi and upper-back while still engaging the biceps."
     }
   ],
-  "Legs": [
+  "legs": [
     {
       "name": "Barbell Back Squat",
       "muscle_group": "Primary: Quads, Secondary: Glutes and Hamstrings.",
       "equipment": "Barbell",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "Often called the \"king of exercises\" for the lower body, the back squat lets you load up immense weight to build massive quads, glutes and hamstrings. It engages your core and spine too, making it a total body strength move."
     },
     {
       "name": "Leg Press",
       "muscle_group": "Primary: Quads, Secondary: Glutes and Hamstrings.",
       "equipment": "Leg Press Machine",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "Sometimes called the \"bench press of the legs\", the leg press allows you to push massive weight through your quads and glutes while your back stays supported. Its fixed path makes it easier to isolate the thighs and go heavy safely."
     },
     {
       "name": "Romanian Deadlift",
       "muscle_group": "Primary: Hamstrings and Glutes , Secondary: Lower Back.",
       "equipment": "Barbell",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "This hinge-style lift locks in your hamstrings and glutes. With a slight knee bend, you lower the barbell slowly down your legs and then drive your hips forward to lift, creating massive tension in the posterior chain."
     },
     {
       "name": "Bulgarian Split Squat",
       "muscle_group": "Primary: Quads and Glutes, Secondary: Hamstrings.",
       "equipment": "Dumbbells",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "A one-leg powerhouse, the Bulgarian split squat torches your quads and glutes by making one leg take all the weight. Elevating your rear foot and driving through the front heel forces huge tension in the lead leg's muscles, building strength and balance."
     },
     {
       "name": "Leg Extension",
       "muscle_group": "Primary: Quads, Secondary: Minimal Hamstrings.",
       "equipment": "Machine",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "This machine isolates the quadriceps by extending the knees against resistance. It’s a beginner-friendly exercise for sculpting the front of your thighs, giving a killer quad burn with less stress on your lower back."
     }
   ],
-  "Shoulders": [
+  "shoulders": [
     {
       "name": "Barbell Overhead Press",
       "muscle_group": "Primary: Front and Side Delts, Secondary: Triceps.",
       "equipment": "Barbell",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "Often called the \"king of shoulder lifts\", the overhead press targets your entire shoulder girdle (especially front and side delts) and also taxes the triceps. Pressing a heavy bar overhead requires full-body bracing and builds raw shoulder strength."
     },
     {
       "name": "Dumbbell Lateral Raise",
       "muscle_group": "Primary: Side Delts, Secondary: Minimal Front Delts.",
       "equipment": "Dumbbells",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "A staple for wide shoulders, the lateral raise isolates the side delts to carve width. Lift the dumbbells straight out to your sides (elbows slightly bent) and feel your outer shoulders burn as they sculpt the shoulder caps."
     },
     {
       "name": "Dumbbell Rear Delt Fly",
       "muscle_group": "Primary: Rear Delts, Secondary: Traps and Rhomboids.",
       "equipment": "Dumbbells",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "An isolation move for the often-neglected rear shoulder. Bent over with dumbbells, you open your arms out to your sides, squeezing the shoulder blades. It primarily hammers the rear delts and upper back, improving posture and shoulder balance."
     },
     {
       "name": "Arnold Press",
       "muscle_group": "Primary: Front and Side Delts, Secondary: Triceps.",
       "equipment": "Dumbbells",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "Named after Arnold Schwarzenegger, this twisting dumbbell press hits all heads of the shoulders. As you rotate the palms during the press, your front and side delts engage through a greater range of motion, for a devastating shoulder burn."
     },
     {
       "name": "Barbell Shrug",
       "muscle_group": "Primary: Trapezius, Secondary: Minimal Forearms.",
       "equipment": "Barbell",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "The king of trap exercises: simply raise your shoulders (shrug) while holding a barbell. It may look easy, but loading it heavy will skyrocket your traps and upper back development, as you fight to lift your shoulders toward your ears."
     }
   ],
-  "Arms": [
+  "arms": [
     {
       "name": "Barbell Curl",
       "muscle_group": "Primary: Biceps, Secondary: Forearms.",
       "equipment": "Barbell",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "A classic move for building the biceps brachii. Curling a heavy barbell from your thighs to your chest loads both arms evenly. It pumps the biceps and also works the forearms to grip the weight."
     },
     {
       "name": "Dumbbell Hammer Curl",
       "muscle_group": "Primary: Brachialis, Secondary: Biceps and Forearms.",
       "equipment": "Dumbbells",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "With a neutral (hammer) grip, this curl variation targets the brachialis (the muscle under the biceps) along with your forearms. It adds thickness to your upper arm and helps build the brachialis for bigger arm size."
     },
     {
       "name": "Bench Dip",
       "muscle_group": "Primary: Triceps, Secondary: Chest and Shoulders.",
       "equipment": "Bench or Chair",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "A simple bodyweight dip focused on the triceps. With hands on a bench behind you, lower your body by bending the elbows, then press up using mainly your triceps. You’ll feel your triceps doing most of the work (with a little help from chest and shoulders)."
     },
     {
       "name": "Triceps Pushdown",
       "muscle_group": "Primary: Triceps, Secondary: Forearms.",
       "equipment": "Cable Machine",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "This cable exercise locks your elbows in place to isolate the triceps. Grip the bar or rope attachment and extend your arms down, feeling a deep burn in the back of your arms. It’s a beginner-friendly move to strengthen the triceps without involving other muscles."
     },
     {
       "name": "Incline Dumbbell Curl",
       "muscle_group": "Primary: Biceps, Secondary: Forearms.",
       "equipment": "Dumbbells",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "This curl performed seated on an incline bench stretches the biceps in the bottom position for a deep contraction. Because your elbows go behind you, it forces strict form and gives your biceps a long stretch and full contraction on every rep."
     }
   ],
-  "Core": [
+  "core": [
     {
       "name": "Plank",
       "muscle_group": "Primary: Core, Secondary: Shoulders and Glutes.",
       "equipment": "Bodyweight",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "Often regarded as the gold-standard core exercise, the plank engages your entire midsection plus shoulders and glutes to hold your body in a straight line. Holding perfect form builds rock-solid abdominal and back stability without moving."
     },
     {
       "name": "Hanging Leg Raise",
       "muscle_group": "Primary: Lower Abs, Secondary: Hip Flexors.",
       "equipment": "Pull-Up Bar",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "An advanced core move that requires hanging from a bar and lifting your legs. By curling or raising your legs up in front of you, you put massive tension on your lower abs and hip flexors. It’s one of the best exercises for a serious ab burn."
     },
     {
       "name": "Russian Twist",
       "muscle_group": "Primary: Obliques, Secondary: Abs.",
       "equipment": "Medicine Ball",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "A twisting core movement that targets the obliques. Sitting with your legs raised, you rotate a weight (or your hands) side to side. Each twist loads the side abs to carve the obliques while your entire core works to stabilize."
     },
     {
       "name": "Dead Bug",
       "muscle_group": "Primary: Abs, Secondary: Hip Flexors.",
       "equipment": "Bodyweight",
-      "difficulty": "Beginner",
+      "difficulty": "beginner",
       "description": "A controlled core stability drill. Lying on your back with arms and legs in the air, you lower opposite arm and leg slowly to the floor. This low-back-friendly move fires your deep abs and hip flexors as you maintain perfect core bracing throughout the motion."
     },
     {
       "name": "Cable Woodchopper",
       "muscle_group": "Primary: Obliques, Secondary: Abs and Shoulders.",
       "equipment": "Cable Machine",
-      "difficulty": "Intermediate",
+      "difficulty": "intermediate",
       "description": "A dynamic rotational exercise for the core. Standing sideways to a cable, you pull the handle diagonally across your body like chopping wood. This powerful movement torques your obliques and abs while also engaging your shoulders for control."
     }
     ]
